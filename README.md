@@ -21,6 +21,8 @@ This is the remote module in a Webpack Module Federation setup. It exposes a `Bu
 
 3. The remote module will be available at `http://localhost:3001`.
 
+4. The host module will be available at `http://localhost:3000` (see module-federation-host repo)
+
 ## Exposed Modules
 
 - `Button`: A simple React button component that shows an alert when clicked.
